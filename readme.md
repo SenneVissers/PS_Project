@@ -7,3 +7,6 @@ Het idee achter mijn project was om makkelijk op zoek te kunnen gaan naar een sp
 
 ## Technisch
 Het programma is geschreven in pythone en ik heb gebruik gemaakt van de librarys "Beautifulsoup" en "Requests"
+
+## Werking
+Het programma heeft eigenlijk geen extra uitleg nodig, het wijst zichzelf wel uit. Maar hier is toch een video met een korte demonstratie.

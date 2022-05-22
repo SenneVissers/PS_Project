@@ -6,7 +6,7 @@
 Het idee achter mijn project was om makkelijk op zoek te kunnen gaan naar een specifiek type van auto. Daarom heb ik een programma gemaakt dat Autoscout afzoekt zodat ik niet naar honderden auto's moet kijken, maar meteen zie 'Dat zit binnen mijn budget, die wil ik bekijken'.
 
 ## Technisch
-Het programma is geschreven in pythone en ik heb gebruik gemaakt van de librarys "Beautifulsoup" en "Requests"
+Het programma is geschreven in python en ik heb gebruik gemaakt van de libraries "Beautifulsoup" en "Requests"
 
 ## Werking
 Het programma heeft eigenlijk geen extra uitleg nodig, het wijst zichzelf wel uit. Maar hier is toch een video met een korte [demonstratie](https://www.youtube.com/watch?v=FYtEk_VbNw0).
